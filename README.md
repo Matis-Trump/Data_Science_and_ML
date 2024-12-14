@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Matis-Trump
-- 👀 I’m interested in Website DEvelopment and AI
+- 👋 Hi, I’m @Matis_Trump
+- 👀 I’m interested in Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Marchine Learning
-- 💞️ I’m looking to collaborate on Machine Learning and AI
-- 📫 How to reach me 
-- 😄 Pronouns: He, His
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning
+- 📫 How to reach me: adewaratodimu2003@gmail.com
+- 😄 Pronouns: He, His, Him
 
 <!---
 Matis-Trump/Matis-Trump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
