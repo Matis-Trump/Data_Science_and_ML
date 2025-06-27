@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matis_Trump
 - 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Marchine Learning
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning
 - 📫 How to reach me: adewaratodimu2003@gmail.com
 - 😄 Pronouns: He, His, Him
